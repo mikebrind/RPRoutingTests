@@ -1,0 +1,28 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<table class="table">
+    <tr>
+        <th>Area Name</th>
+        <th>Relative Path</th>
+        <th>View Engine Path</th>
+        <th>Template(s)</th>
+    </tr>
+    @foreach (var entry in Startup.PageRouteModels)
+    {
+        <tr>
+            <td>@entry.AreaName</td>
+            <td>@entry.RelativePath</td>
+            <td>@entry.ViewEnginePath</td>
+            <td>@foreach (var selector in entry.Selectors)
+            {   
+                @(selector.AttributeRouteModel.Template == string.Empty ? "{string.Empty}" : selector.AttributeRouteModel.Template)<br />
+            }
+            </td>
+        </tr>
+
+    }
+</table>
