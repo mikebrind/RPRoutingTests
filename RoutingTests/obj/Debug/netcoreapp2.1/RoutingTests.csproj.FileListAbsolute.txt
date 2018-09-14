@@ -23,3 +23,7 @@ C:\Users\mikebrind\source\Repos\RPRoutingTests\RoutingTests\obj\Debug\netcoreapp
 C:\Users\mikebrind\source\Repos\RPRoutingTests\RoutingTests\obj\Debug\netcoreapp2.1\RoutingTests.pdb
 C:\Users\mikebrind\source\Repos\RPRoutingTests\RoutingTests\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Mvc.Abstractions.dll
 C:\Users\mikebrind\source\Repos\RPRoutingTests\RoutingTests\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\mikebrind\Documents\GitHub\RPRoutingTests\RoutingTests\obj\Debug\netcoreapp2.1\RoutingTests.csprojAssemblyReference.cache
+C:\Users\mikebrind\Documents\GitHub\RPRoutingTests\RoutingTests\obj\Debug\netcoreapp2.1\RoutingTests.csproj.CoreCompileInputs.cache
+C:\Users\mikebrind\Documents\GitHub\RPRoutingTests\RoutingTests\obj\Debug\netcoreapp2.1\RoutingTests.AssemblyInfoInputs.cache
+C:\Users\mikebrind\Documents\GitHub\RPRoutingTests\RoutingTests\obj\Debug\netcoreapp2.1\RoutingTests.AssemblyInfo.cs

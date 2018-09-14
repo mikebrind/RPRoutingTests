@@ -76,6 +76,5 @@ namespace RoutingTests
             Exception ex = Assert.Throws<ApplicationException>(() => convention.Apply(pageRouteModel));
             Assert.Equal("Nested folders are not permitted", ex.Message);
         }
-
     }
 }

@@ -11,6 +11,7 @@ using Microsoft.AspNetCore.Mvc.ApplicationModels;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using RPRoutingTests.PageRouteModelConventions;
+using RPRoutingTests.Services;
 
 namespace RPRoutingTests
 {
@@ -36,6 +37,7 @@ namespace RPRoutingTests
 
             services.AddMvc().AddRazorPagesOptions(options =>
             {
+                options.Conventions.Add(new LocalizedPageRouteModelConvention(new LocalizationService()));
                 options.Conventions.Add(new CustomPageRouteModelConvention());
             })
             .SetCompatibilityVersion(CompatibilityVersion.Version_2_1);

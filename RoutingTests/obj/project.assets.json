@@ -8055,11 +8055,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mikebrind\\source\\Repos\\RPRoutingTests\\RoutingTests\\RoutingTests.csproj",
+      "projectUniqueName": "C:\\Users\\mikebrind\\Documents\\GitHub\\RPRoutingTests\\RoutingTests\\RoutingTests.csproj",
       "projectName": "RoutingTests",
-      "projectPath": "C:\\Users\\mikebrind\\source\\Repos\\RPRoutingTests\\RoutingTests\\RoutingTests.csproj",
+      "projectPath": "C:\\Users\\mikebrind\\Documents\\GitHub\\RPRoutingTests\\RoutingTests\\RoutingTests.csproj",
       "packagesPath": "C:\\Users\\mikebrind\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mikebrind\\source\\Repos\\RPRoutingTests\\RoutingTests\\obj\\",
+      "outputPath": "C:\\Users\\mikebrind\\Documents\\GitHub\\RPRoutingTests\\RoutingTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Users\\mikebrind\\.dotnet\\NuGetFallbackFolder",
@@ -8080,8 +8080,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\mikebrind\\source\\Repos\\RPRoutingTests\\RPRoutingTests\\RPRoutingTests.csproj": {
-              "projectPath": "C:\\Users\\mikebrind\\source\\Repos\\RPRoutingTests\\RPRoutingTests\\RPRoutingTests.csproj"
+            "C:\\Users\\mikebrind\\Documents\\GitHub\\RPRoutingTests\\RPRoutingTests\\RPRoutingTests.csproj": {
+              "projectPath": "C:\\Users\\mikebrind\\Documents\\GitHub\\RPRoutingTests\\RPRoutingTests\\RPRoutingTests.csproj"
             }
           }
         }
